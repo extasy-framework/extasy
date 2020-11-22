@@ -19,7 +19,7 @@
   <artifactId>extasy</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <packaging>pom</packaging>
-  <name>Extasy parent POM</name>
+  <name>Extasy Parent POM</name>
   <description>A parent POM for all artifacts by Extasy Framework.</description>
   <properties>
     <archetype.encoding>${encoding}</archetype.encoding>
