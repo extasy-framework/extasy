@@ -20,7 +20,7 @@
   <version>1.0.0-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>Extasy Parent POM</name>
-  <description>A parent POM for all artifacts by Extasy Framework.</description>
+  <description>A parent POM for all artifacts by Extasy Framework</description>
   <properties>
     <archetype.encoding>${encoding}</archetype.encoding>
     <encoding>UTF-8</encoding>
